@@ -1,0 +1,14 @@
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/bin/Debug/net8.0/practice
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/bin/Debug/net8.0/practice.deps.json
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/bin/Debug/net8.0/practice.runtimeconfig.json
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/bin/Debug/net8.0/practice.dll
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/bin/Debug/net8.0/practice.pdb
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.AssemblyInfoInputs.cache
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.AssemblyInfo.cs
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.csproj.CoreCompileInputs.cache
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.dll
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/refint/practice.dll
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.pdb
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/practice.genruntimeconfig.cache
+/Users/sufi/Downloads/practice-softwares/Projects and learning/Ds and Algo/csharp/practice/obj/Debug/net8.0/ref/practice.dll
